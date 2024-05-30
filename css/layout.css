@@ -1269,8 +1269,8 @@ fieldset[disabled] .btn-theme {
   padding-bottom: 100px;
   background-image: url("../img/bck-1.png");
   background-repeat: no-repeat;
-  background-position: 160%  56%;
-  background-size: 60%;
+  background-position: 100%  100%;
+  background-size: 30%;
 
 }
 
