@@ -238,24 +238,24 @@ h4 {
 
 .btn-white-brd {
   color: #fff;
-  background: transparent;
+  background: #66a6d5;
   border-color: rgba(255, 255, 255, 0.3);
   border-width: 1px;
 }
 .btn-white-brd:hover, .btn-white-brd:focus, .btn-white-brd.focus {
   color: #515769;
-  background: #fff;
+ 
   border-color: transparent;
 }
 
 .btn-default-bg {
   color: #515769;
   background: #f3f4f5;
-  border-color: transparent;
+  border-color: #66a6d5;
   border-width: 0;
 }
 .btn-default-bg:hover, .btn-default-bg:focus, .btn-default-bg.focus {
-  color: #fff;
+  color: #66a6d5;
   background: #17bed2;
   border-color: transparent;
 }
