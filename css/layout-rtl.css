@@ -31,6 +31,7 @@ html, html a, body {
 
 body {
   font-family: Hind, sans-serif;
+  background-color: #ececec;
 }
 
 p {
@@ -333,6 +334,7 @@ fieldset[disabled] .btn-theme {
 /* Navbar */
 .header .navbar {
   margin-bottom: 0;
+  background-color: #ececec;
 }
 
 /* Navbar Toggle */
@@ -881,7 +883,7 @@ fieldset[disabled] .btn-theme {
 
 .content-lg {
   padding-top: 100px;
-  padding-bottom: 100px;
+  /* padding-bottom: 100px; */
 }
 
 /*------------------------------------------------------------------
